@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "requestDomains": [
+        "doubleclick.net",
+        "googlesyndication.com",
+        "googleadservices.com",
+        "imasdk.googleapis.com",
+        "2mdn.net",
+        "moatads.com",
+        "innovid.com",
+        "adsafeprotected.com",
+        "doubleverify.com",
+        "serving-sys.com",
+        "flashtalking.com",
+        "adnxs.com",
+        "fwmrm.net",
+        "scorecardresearch.com",
+        "iasds01.com",
+        "ad.gt"
+      ],
+      "initiatorDomains": ["hbomax.com", "max.com"],
+      "resourceTypes": [
+        "script", "xmlhttprequest", "image", "media", "sub_frame", "ping", "other"
+      ]
+    }
+  }
+]

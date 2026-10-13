@@ -1,0 +1,10 @@
+_metadata/
+node_modules/
+dist/
+.env*
+*.pem
+*.key
+*.crx
+*.log
+.DS_Store
+Thumbs.db
